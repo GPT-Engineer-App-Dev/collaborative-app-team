@@ -1,0 +1,1 @@
+// This file can be used to define and export schemas for data structures used in the application.
